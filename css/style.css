@@ -1,0 +1,25 @@
+body{
+	background: #C0C0C0;
+}
+.box{
+	border: 1px solid #000000;
+	width: 100%;
+}
+
+.list-one{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+li{
+	text-align: center;
+	width: 150px;
+	height: 150px;
+	margin: 5px;
+	background: #00BFFF;
+	list-style-type: none;
+}
+ul{
+	padding: 0;
+}
